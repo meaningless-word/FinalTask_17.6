@@ -1,5 +1,8 @@
 ﻿namespace FinalTask_17._6
 {
+	/// <summary>
+	/// калькулятор первичной реализации
+	/// </summary>
 	public static class Calculator
 	{
 		// Метод для расчета процентной ставки

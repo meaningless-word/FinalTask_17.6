@@ -1,5 +1,8 @@
 ﻿namespace FinalTask_17._6
 {
+	/// <summary>
+	/// Метод расчёта процентной ставки для счетов типа "Обычный" 
+	/// </summary>
 	class Regular : CalculatorNew
 	{
 		public override void CalculateInterest(Account account)
